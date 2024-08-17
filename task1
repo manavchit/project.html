@@ -1,0 +1,170 @@
+   <!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+        
+            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+        
+
+    </head>
+    <body>
+        <div class="container-fluid">
+            <div class="row">
+            <div class="col-md-12 col-sm-12">
+                <ul>
+                    <li class="mt">About</li>
+                    <li class="mg">Work</li>
+                    <li class="mg">Contact</li>
+                </ul>
+            </div>
+        </div>
+        <div class="row ">
+            <div class="col-md-12 col-sm-12">
+                <p class="c">Hey,I'm Manav</p>
+             <img src="im1.jpg"  class="responsive-img"width="100%">
+             
+        
+    </div>
+    </div>
+   </div>
+   <div class="container">
+    <div class="row">
+        <div class="col-md-4 col-sm-6">
+        </div>
+        <div class="col-md-4 col-sm-6">
+            
+            <img style="margin-left: 30px;" class="img-circle" src="manav.jpg"  class="responsive-img"height="300px">
+            <p  style="color: blue;margin-left: -5px;margin-top: 30px;">i am a full stack developer based in melbourne,australia</p>
+            <hr class="colored-hr">
+            <p  style="color: blue;margin-left: 60px;margin-top: 30px;">Here what i have done so far</p>
+            
+        
+    
+                <img style="margin-left: -30px;border-radius: 20px;"  src="manav.jpg"  class="responsive-img"height="120px" width="150px">
+                <p style="margin:-70px 0px 0px 130px;color:brown;">project discription</p>
+                
+               
+                
+                <img style="margin-left: -30px;border-radius: 20px;margin-top: 80px;"  src="manav.jpg"  class="responsive-img" height="120px" width="150px">
+                <p style="margin:-70px 0px 0px 130px;color:brown;">project discription</p>
+              
+        </br></br>
+                <hr class="colored-hr">
+                <p style="margin-left: 110px;color:green">My photos</p>
+              
+                </div>
+        </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3 col-sm-3" >
+                    <img src="im2.jpg" class="responsive-img" width="250px"height="200px">
+                    </div>
+                    <div class="col-md-3 col-sm-3" >
+                        <img src="im2.jpg"  class="responsive-img"width="250px"height="200px">
+                        </div>
+                        <div class="col-md-3 col-sm-3" >
+                            <img src="im2.jpg"  class="responsive-img"width="250px"height="200px">
+                            </div>
+                            <div class="col-md-3 col-sm-3" >
+                                <img style="margin-top: 20px;"src="im2.jpg"  class="responsive-img"width="250px"height="200px">
+                                </div>
+                                </div>
+                                </div>
+                            </br>
+                            <div class="container">
+                                <div class="row">
+         
+                <div class="col-md-4 col-sm-4">
+                    <img style ="margin-left: 150px" src="im2.jpg"  class="responsive-img"width="150px"height="200px">
+
+                    </div>
+                    <div class="col-md-4 col-sm-4">
+                        <img style ="margin-left:-60px ;margin-top: 10px;" src="im2.jpg"  class="responsive-img"width="150px"height="200px">
+    
+                        </div>
+                        <div class="col-md-4 col-sm-4">
+                            <img src="im2.jpg"  class="responsive-img"width="250px"height="200px">
+        
+                            </div>
+                            </div>
+        
+                            
+
+        </div>
+    </br>
+        <div class="container">
+            <div class="row">
+                
+                <div class="col-md-4 col-sm-4">
+                    <img style ="margin-left: 150px" src="im2.jpg" class="responsive-img" width="150px"height="200px">
+
+                    </div>
+                    <div class="col-md-4 col-sm-4">
+                        <img style ="margin-left:-60px " src="im2.jpg"  class="responsive-img" width="150px"height="200px">
+    
+                        </div>
+                        <div class="col-md-4 col-sm-4">
+                            <img src="im2.jpg"  class="responsive-img" width="250px"height="200px">
+        
+                            </div>
+                            </div>
+        
+                            
+
+        </div>
+    
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js">
+		</script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js">
+		</script>
+
+    </body>
+</html> 
+
+external css (style.css)
+li
+{
+    display: inline;
+}
+.mt
+{
+margin:0px 0px 0px -40px;
+color:aqua}
+.mg
+{margin:0px 0px 0px 35px;
+color:aqua;}
+
+ 
+.c
+{
+    position: absolute;
+    margin:600px 0px 0px 0px;
+    color:darkmagenta;
+    background-color: gray;
+    font-size:50px;
+    width:98%;
+    opacity: 0;
+   
+    
+    text-align: center;
+    
+}
+
+.row:hover .c{
+    opacity: 1;
+    transition: opacity 0.3s ease-in-out;
+}
+.colored-hr {
+    border: none; /* Remove the default border */
+    width: 40%;
+    height: 2px; /* Set the thickness */
+    background-color: red; /* Set the color (e.g., Tomato) */
+    margin: 30px 0; /* Add some space above and below */
+    margin-left: 75px;
+  } 
+  
+  .responsive-img {
+    max-width: 100%;
+    
+}
