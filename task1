@@ -57,62 +57,23 @@
         </div>
         <div class="container">
             <div class="row">
-                <div class="col-md-3 col-sm-3" >
+                <div class="col-md-3 col-sm-6" >
                     <img src="im2.jpg" class="responsive-img" width="250px"height="200px">
                     </div>
-                    <div class="col-md-3 col-sm-3" >
+                    <div class="col-md-3 col-sm-6" >
                         <img src="im2.jpg"  class="responsive-img"width="250px"height="200px">
                         </div>
-                        <div class="col-md-3 col-sm-3" >
+                        <div class="col-md-3 col-sm-6" >
                             <img src="im2.jpg"  class="responsive-img"width="250px"height="200px">
                             </div>
-                            <div class="col-md-3 col-sm-3" >
-                                <img style="margin-top: 20px;"src="im2.jpg"  class="responsive-img"width="250px"height="200px">
+                            <div class="col-md-3 col-sm-6" >
+                                <img src="im2.jpg"  class="responsive-img"width="250px"height="200px">
                                 </div>
                                 </div>
                                 </div>
-                            </br>
-                            <div class="container">
-                                <div class="row">
+                            
+                             
          
-                <div class="col-md-4 col-sm-4">
-                    <img style ="margin-left: 150px" src="im2.jpg"  class="responsive-img"width="150px"height="200px">
-
-                    </div>
-                    <div class="col-md-4 col-sm-4">
-                        <img style ="margin-left:-60px ;margin-top: 10px;" src="im2.jpg"  class="responsive-img"width="150px"height="200px">
-    
-                        </div>
-                        <div class="col-md-4 col-sm-4">
-                            <img src="im2.jpg"  class="responsive-img"width="250px"height="200px">
-        
-                            </div>
-                            </div>
-        
-                            
-
-        </div>
-    </br>
-        <div class="container">
-            <div class="row">
-                
-                <div class="col-md-4 col-sm-4">
-                    <img style ="margin-left: 150px" src="im2.jpg" class="responsive-img" width="150px"height="200px">
-
-                    </div>
-                    <div class="col-md-4 col-sm-4">
-                        <img style ="margin-left:-60px " src="im2.jpg"  class="responsive-img" width="150px"height="200px">
-    
-                        </div>
-                        <div class="col-md-4 col-sm-4">
-                            <img src="im2.jpg"  class="responsive-img" width="250px"height="200px">
-        
-                            </div>
-                            </div>
-        
-                            
-
-        </div>
     
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js">
 		</script>
